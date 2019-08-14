@@ -12,21 +12,21 @@ The code is available under the [MIT license](LICENSE).
 
 * [HealthProfile](#healthprofile)
 * [Factorial](#factorial)
-* [Проблема Питера Минъюта](#--)
-* [Ханойская башня](#--1)
-* [Блочная сортировка](#--2)
-* [Генератор кроссвордов](#--3)
-* [Игра «крестики-нолики»](#---1)
-* [Действия над множествами](#---2)
+* [Проблема Питера Минъюта](#проблема-питера-минъюта)
+* [Ханойская башня](#ханойская-башня)
+* [Блочная сортировка](#блочная-сортировка)
+* [Генератор кроссвордов](#генератор-кроссвордов)
+* [Игра «крестики-нолики»](#игра-крестики-нолики)
+* [Действия над множествами](#действия-над-множествами)
 * [Polinomial](#polinomial)
-* [Иерархия наследования Account](#--account)
+* [Иерархия наследования Account](#иерархия-наследования-account)
 * [CarbonFootprint Abstract Class: Polymorphism](#carbonfootprint-abstract-class-polymorphism)
 * [Template](#template)
 * [Stream Input Output](#stream-input-output)
 * [Exception Handling](#exception-handling)
 * [Phishing Scanner](#phishing-scanner)
 * [Cooking with Healthier Ingredients](#cooking-with-healthier-ingredients)
-* [Быстрая сортировка](#--3)
+* [Быстрая сортировка](#быстрая-сортировка)
 * [Standard Template Library (STL)](#standard-template-library-stl)
 * [Counting HTML Tags](#counting-html-tags)
 * [Other Topics](#other-topics)
@@ -118,7 +118,7 @@ Prompt the user for the desired accuracy of e (i.e., the number of terms in the 
 > _Date: 21.05.2013 [Source code](/7.cpp/)_
 
 
-#### [Генератор кроссвордов -on Work...](/cross.cpp/)
+#### [Генератор кроссвордов](/cross.cpp/)
 Большинство людей наверняка сталкивались с решением кроссвордов, но немногие пытались сами составить хотя бы один. Производство кроссвордов является сложной задачей. Она предлагается здесь как проект по теме **обработки строк**, требующий больших усилий. 
 
 В этом проекте имеется множество частных задач, которые должен решить программист, чтобы запустить в работу даже простейшую программу **генерирования кроссвордов**. Например, как представить сетку кроссворда внутри компьютера? Нужно ли использовать ряд строк или двумерные массивы? 
